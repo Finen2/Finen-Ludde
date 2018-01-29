@@ -1,0 +1,3 @@
+rootProject.name = 'gitarfl'
+
+include ':app'
