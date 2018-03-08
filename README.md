@@ -4,7 +4,8 @@ Project requierments:
 
 1. React native
 2. Mobile first
-3.
+3. Redux
+4. 
 
 Consept:
 
