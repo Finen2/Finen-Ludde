@@ -14,7 +14,10 @@ Consept:
 3. Helping pepole ( Point system that when you have helped somebody you get a point, that you can trade for help from somebody else)
 4. Teaching pepole about sybersecurety
 5. Bitcoin traiding
+
+This is it!
 6. Teching young kids about computers and tech (And how to hack tech for usecases)
+
 7. Learn basics in coding 
 8. Teach pepole about photography and retuching
 9. Learn how to play an instrument
