@@ -37,3 +37,11 @@ Development enviorment:
 3. React native (framework)
 4. Heroku
 5. 
+
+
+Ludvigs frågor:
+
+So, what exactly are we doing really?
+I guess the concepts are just suggestions, right?
+But they all sound great. And the technologies sound great as well.
+Right now we are learning Node.js and React. (and I think Redux as well) But I have never hear of Eslinte or Heroku
